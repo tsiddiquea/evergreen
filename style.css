@@ -1,0 +1,204 @@
+/* Basic Setup */
+
+body{
+    font-family: "Dosis";
+}
+
+/* title */
+
+#title {
+  background-color: #B5EAEA;
+  color: #fff;
+}
+
+.container-fluid {
+  padding: 3% 15% 1%;
+}
+
+.title-image{
+  width: 70%;
+  position: relative;
+  left: 23%;
+  top: 12%;
+}
+
+.navbar-brand{
+  font-family: "Dosis";
+  font-weight: 700;
+  font-size: 50px;
+}
+
+.navbar-item{
+  padding: 0 18px;
+}
+
+.nav-link{
+  font-family: "Dosis";
+  font-weight: 400;
+  font-size: 25px;
+}
+
+.first-box{
+  height: 300px;
+  width: 250px;
+  background-color: #fff;
+  border-radius: 40px;
+  position: relative;
+  top: 12%;
+}
+
+.second-box{
+  height: 300px;
+  width: 250px;
+  background-color: #f4f4f4;
+  border-radius: 40px;
+  position: relative;
+  left: 25%;
+  top: -24%;
+}
+
+.title-button{
+  padding: 2% 10%;
+  margin-top: -25%;
+}
+
+a {
+  text-decoration: none;
+  color: #fff;
+}
+
+h4 {
+  color: #242424;
+  letter-spacing: 1px;
+  text-align: center;
+  font-weight: 400;
+  font-size: 25px;
+  padding-top: 10%;
+  line-height: 145%;
+}
+
+.first-box img {
+  padding-top: 5%;
+  padding-left: 5%;
+}
+
+
+
+/* Working Process */
+
+#process {
+  background-color: #EDF6E5;
+  padding: 5% 17%;
+  text-align: center;
+}
+
+
+.process-icon {
+  width: 35%;
+  margin-top: 25%;
+}
+
+h3 {
+  font-family: "Dosis";
+  font-size: 25px;
+  font-weight: 600;
+}
+
+p {
+  text-align: center;
+  font-size: 18px;
+  margin-top: 10%;
+  font-family: "Cardo";
+  line-height: 1.5;
+}
+
+/* Pricing */
+
+#pricing {
+  background-color: #F9DFDC;
+  padding: 5% 6%;
+  text-align: center;
+}
+
+.pricing-h {
+  margin-left: 3%;
+  margin-right: 3%;
+}
+
+.pricing-box  {
+  height: 400px;
+  width: 300px;
+  background-color: #fff;
+  border-radius: 15px;
+  margin-top: 20%;
+  margin-left: 8%;
+}
+
+h2 {
+  font-family: "Montserrat";
+  font-weight: 700;
+  padding-top: 5%;
+}
+
+.pricing-p {
+  display: inline-block;
+  font-family: "Montserrat";
+  font-weight: 400;
+  padding-left: 3%;
+  margin-bottom: 0;
+}
+
+.list {
+  text-align: left;
+  margin-left: 10%;
+  padding-bottom: 5%;
+}
+
+.pricing-button {
+  padding: 2% 25%;
+  margin-top: 10%;
+}
+
+/* Reason section */
+
+#reason{
+  background-color: #C1A1D3;
+  text-align: center;
+  padding: 5% 8%;
+}
+
+.reason-box{
+  height: 545px;
+  /* width: 1174px; */
+  background-color: #fff;
+  border-radius: 15px;
+  margin-top: 2%;
+}
+
+.reason-p{
+  font-family: "Dosis";
+  font-size: 22px;
+  line-height: 200%;
+  padding-top: 5%;
+  letter-spacing: 1px;
+  word-spacing: 3px;
+}
+
+#footer {
+  background-color: #FFDADA;
+  padding: 3% 10%;
+}
+
+.footer-icon {
+  text-align: center;
+  padding-top: 5%;
+}
+
+.icon-small {
+  margin-left: 2%;
+}
+
+.footer-icon p {
+  text-align: center;
+  margin-top: 2%;
+}
